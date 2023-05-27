@@ -73,6 +73,7 @@ body {
 }
 .button-active:is(:hover, :focus) {
   background: #404bbf;
+  color: #ffffff;
 }
 .button-active {
   cursor: pointer;
@@ -151,6 +152,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 /* footer--------------------- */
 .footer {
